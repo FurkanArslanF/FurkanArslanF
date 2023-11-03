@@ -30,12 +30,8 @@
 <h4 align="center">🔨 Projects</h4>
 
 ###
+<h5 align="center"><a href="https://play.google.com/store/apps/details?id=com.sefetech.safe_tunnel_vpn">SafeTunnel VPN Fast and Secure</a></h5>
 
-<a href="https://play.google.com/store/apps/details?id=com.sefetech.safe_tunnel_vpn">
-<h5 align="center">SafeTunnel VPN Fast and Secure</h5>
-</a>
-
-###
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FurkanArslanF.FurkanArslanF&"  />
 </div>
