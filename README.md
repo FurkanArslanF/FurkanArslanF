@@ -19,15 +19,15 @@
 
 ###
 
-<h3 align="center">📱 Mobile App Developer</h3>
+<p align="center">📱 Mobile App Developer</p>
 
 ###
 
-<h4 align="center">I develop high-performance and user-friendly mobile applications using Flutter.</h4>
+<p align="center">I develop high-performance and user-friendly mobile applications using Flutter.</p>
 
 ###
 
-<h4 align="center">🔨 Projects</h4>
+<p align="center">🔨 Projects</p>
 
 ###
 <h5 align="center"><a href="https://play.google.com/store/apps/details?id=com.sefetech.safe_tunnel_vpn">SafeTunnel VPN Fast and Secure</a></h5>
