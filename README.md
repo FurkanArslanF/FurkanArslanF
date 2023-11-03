@@ -12,15 +12,27 @@
   <a href="https://medium.com/@furkannarslan96" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="60" height="35" alt="medium logo"  />
   </a>
-  <a href="furkannarslan96@gmail.com" target="_blank">
+  <a href="mailto:furkannarslan96@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="35" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h4 align="center">I have a strong passion for developing high-performance and user-friendly mobile applications with Flutter. I contribute to projects with my problem-solving skills, quick learning ability, and effective teamwork skills.</h4>
+<h3 align="center">📱 Mobile App Developer</h3>
 
+###
+
+<h4 align="center">I develop high-performance and user-friendly mobile applications using Flutter.</h4>
+
+###
+
+<h4 align="center">🔨 Projects</h4>
+
+###
+<a href="https://play.google.com/store/apps/details?id=com.sefetech.safe_tunnel_vpn">
+<h5 align="center">SafeTunnel VPN Fast and Secure</h5>
+</a>
 ###
 
 <div align="center">
@@ -42,5 +54,9 @@
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
 </div>
+
+###
+
+<h5 align="center">🌟Thank you for checking out my profile. I'm always open to collaboration!"</h5>
 
 ###
